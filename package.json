@@ -1,6 +1,6 @@
 {
 	"name": "scrolls-top",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Function that scrolls window to the top, smoothly.",
 	"license": "MIT",
 	"repository": "ahmadawais/scrolls-top",
