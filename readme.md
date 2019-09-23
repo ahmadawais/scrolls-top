@@ -23,6 +23,9 @@ npm install scrolls-top
 
 ```js
 const scrollsTop = require('scrolls-top');
+
+// Use it inside JavaScript, React, Vue, even SSR like Next.js.
+scrollsTop();
 ```
 
 <br>
